@@ -1,3 +1,3 @@
 
-Credits to   for A clean and simple Minecraft "portal" website template.
+Credits to bybilly for A clean and simple Minecraft "portal" website template.
 
